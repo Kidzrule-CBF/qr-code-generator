@@ -30,8 +30,8 @@ The goal is to streamline payments at events by making it easy for attendees to 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Kidzrule-CBF/qr-code-generator.git
+   cd qr-code-generator
    ```
 2. Install dependencies:
    ```sh
